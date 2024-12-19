@@ -19,15 +19,6 @@
 
 
 ## Быстрый старт 
-
-### 1. Клонируйте репозиторий 
-
-
-```bash
-git clone https://github.com/yourusername/android-monitoring-server.git
-cd android-monitoring-server
-```
-
 ### 1. Сборка и запуск контейнеров 
 
 Убедитесь, что у вас установлен Docker и Docker Compose. Затем выполните:
