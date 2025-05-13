@@ -1,6 +1,6 @@
 # Мониторинг Android-приложения с использованием FastAPI, Prometheus и Grafana
 
-## [Андроид-риложение здесь](https://github.com/NLyapin/location_tracker)
+## [Андроид-приложение здесь](https://github.com/NLyapin/location_tracker)
 
 Этот репозиторий содержит серверную часть проекта для мониторинга активности Android-приложения. Сервер принимает данные от Android-приложения через WebSocket, сохраняет их и предоставляет метрики для мониторинга с использованием Prometheus и Grafana.
 
